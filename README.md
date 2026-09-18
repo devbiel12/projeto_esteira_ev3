@@ -14,8 +14,8 @@ O projeto simula um processo de automação industrial: identificar característ
 - **Instituição**: Faculdade Impacta Tecnologia
 - **Disciplina**: Robótica / Automação
 - **Orientador**: Prof. Gustavo Molina Figueiredo
-- **Integrantes**: Richard Bernardino, Gabriel Araújo, Guilherme Amorim, Matheus Deziderio
-
+- **Integrantes**: Gabriel Araújo, Guilherme Amorim, Matheus Deziderio, Richard Bernardino
+- **RAs**: 2401592, 2401694, 2401416, 2401808
 ---
 
 ## 🛠️ Arquitetura de Hardware e Conexões
