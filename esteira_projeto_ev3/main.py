@@ -15,11 +15,6 @@ POSSIBLE_COLORS = [Color.RED, Color.GREEN, Color.BLUE, Color.YELLOW]
 # Inicializa o bloco EV3
 ev3 = EV3Brick()
 
-# 1. Aumentar o volume do speaker para o máximo (100%)
-ev3.speaker.volume(100)
-# Configura opções de voz para soar com mais clareza e presença
-ev3.speaker.set_speech_options(language='en', speed=120, pitch=50)
-
 # Inicializa os motores da esteira (Porta D) e alimentador/dispenser (Porta A)
 belt_motor = Motor(Port.D)
 feed_motor = Motor(Port.A)
